@@ -1,0 +1,30 @@
+[2020-03-05 16:11:34.954] [exthost] [info] extension host started
+[2020-03-05 16:11:35.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-05 16:11:35.008] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-05 16:11:35.022] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-05 16:11:35.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-05 16:11:35.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-05 16:11:35.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-05 16:11:35.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-05 16:11:35.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-05 16:11:35.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-05 16:11:35.140] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-03-05 16:11:35.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-05 16:11:35.142] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-05 16:11:35.203] [exthost] [info] eager extensions activated
+[2020-03-05 16:11:44.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-03-05 16:11:44.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-03-06 14:12:12.574] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2020-03-06 14:12:12.642] [exthost] [error] Error: Invalid arguments
+	at new g (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:559)
+	at g (/snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:199238)
+	at /snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:200572
+	at C (/snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:200758)
+[2020-03-06 14:22:02.122] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2020-03-06 14:22:02.122] [exthost] [error] Error: Invalid arguments
+	at new g (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/snap/code/25/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:559)
+	at g (/snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:199238)
+	at /snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:200572
+	at C (/snap/code/25/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:200758)

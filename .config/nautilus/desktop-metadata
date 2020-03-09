@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1583505048
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1583505048
+nautilus-icon-position=56,26
+icon-scale=1
+
+[HiSuite.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1583306829
+
+[MRD LX1.volume]
+nautilus-icon-position=56,266
+icon-scale=1
+nautilus-icon-position-timestamp=1583306830
+
+[iPhone.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1583330215
